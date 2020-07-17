@@ -1,0 +1,55 @@
+body {
+  font-family: Oxygen;
+  font-size: 24px;
+  /* background-color:blanchedalmond; */
+}
+
+#header-nav {
+ 
+  border: 0; 
+  background-color: #01FF70  ;
+  /* height: 70px; */
+
+}
+
+.navbar-header .navbar-brand {
+  height: 70px;
+}
+
+section {
+  border: 1px solid black;
+  background-color:#3D9970;
+  width: 100%;
+  height: 500px;
+  color: black;
+  position: relative;
+  overflow: auto;
+  margin-bottom: 20px;
+}
+
+#dish-name {
+  text-align: center;
+  font-weight: bold;
+  font-size: 125%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+ 
+}
+p {
+  padding: 10px;
+}
+.nav-brand  {
+  color: black;
+  font-size: 1.5em;
+}
+#nav-list {
+  color: white;
+}
+.dish {
+  color: rgb(82, 9, 9);
+  font-size: 1.2em;
+}
+#nav-list a:hover {
+  background: blanchedalmond;
+
+}
